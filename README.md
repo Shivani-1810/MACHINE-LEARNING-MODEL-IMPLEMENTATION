@@ -17,3 +17,4 @@ This project demonstrates a machine learning-based text classification model tha
 The model is built using the Scikit-learn library, leveraging the Multinomial Naive Bayes algorithm—a commonly used classifier for text data. This task is part of the CODTECH Internship Task - 4: Machine Learning Model Implementation.
 
 OUTPUT
+<!-- Uploading "Screenshot 2025-07-25 at 6.44.44 PM.png"... -->
